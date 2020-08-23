@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FD15F265-CA76-4668-A7BE-D2D77AB396B1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FC337E6-23E3-44D9-802E-5E9BC5CDA3F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TraficLights/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0FC337E6-23E3-44D9-802E-5E9BC5CDA3F6 - abedae56904ad5a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TraficLights.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TraficLights.ViewController"
+                  moduleName = "TraficLights"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/justine.janaite/Downloads/bootcamp/Xcode%20Projects/TraficLights/TraficLights/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "918">
+               </Location>
+               <Location
+                  uuid = "0FC337E6-23E3-44D9-802E-5E9BC5CDA3F6 - e525bb09287c4c8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TraficLights.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TraficLights.ViewController&gt;"
+                  moduleName = "TraficLights"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/justine.janaite/Downloads/bootcamp/Xcode%20Projects/TraficLights/TraficLights/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "859">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3976CCF9-5C45-424D-8636-D7F53D2ECA03"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TraficLights/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3976CCF9-5C45-424D-8636-D7F53D2ECA03 - abedae56904ad5a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TraficLights.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TraficLights.ViewController"
+                  moduleName = "TraficLights"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/justine.janaite/Downloads/bootcamp/Xcode%20Projects/TraficLights/TraficLights/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "918">
+               </Location>
+               <Location
+                  uuid = "3976CCF9-5C45-424D-8636-D7F53D2ECA03 - e525bb09287c4c8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TraficLights.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TraficLights.ViewController&gt;"
+                  moduleName = "TraficLights"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/justine.janaite/Downloads/bootcamp/Xcode%20Projects/TraficLights/TraficLights/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "859">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
